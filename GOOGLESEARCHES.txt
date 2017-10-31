@@ -1,0 +1,6 @@
+Google Search
+- import js into html
+- comment html
+- express send html file
+- pass html value to javascript
+- dom api 

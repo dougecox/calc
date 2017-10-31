@@ -1,5 +1,5 @@
-module.exports = function() {
-    return {
+module.exports = 
+    {
     add: function(a,b) {
         return a + b;
     },
@@ -12,5 +12,4 @@ module.exports = function() {
     divide: function( a, b ) {
         return a / b;
     }
-}
 };
